@@ -1,0 +1,2 @@
+alias create="python3 create.py "
+alias scan="python3 scan.py "
