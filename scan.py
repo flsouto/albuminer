@@ -3,6 +3,8 @@ from utils import *
 from pathlib import Path
 import sys
 from jsondb import Object
+from bs4 import BeautifulSoup
+import requests
 
 p = argparse.ArgumentParser()
 p.add_argument("search_name")
@@ -14,4 +16,7 @@ if not meta_f.exists():
     err("File not found: " + str(meta_f))
 
 meta = Object(meta_f)
-dd(meta['search_url'])
+response = requests.get(meta['search_url'])
+print(response.text)
+
+

@@ -1,2 +1,6 @@
 python-slugify
 pysondb
+beautifulsoup4
+html5lib
+requests
+diskcache
