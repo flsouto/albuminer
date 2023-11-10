@@ -22,6 +22,9 @@ class _Object:
         self.dirty = True
         self.data[key] = value
 
+    def __contains__(self, key):
+        return key in self.data
+
     def save(self, force=False):
         if not self.dirty and not force:
             pass

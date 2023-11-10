@@ -23,8 +23,9 @@ songs = response['aaData']
 
 from bs4 import BeautifulSoup as bs
 from slugify import slugify
-
-albums = {}
+from jsondb import Object
+albums = Object(meta_f.with_name('albums.json'))
+new_albums = 0
 
 for link_band,link_album,type,song,genre,*_ in songs:
     link_band = bs(link_band,'html.parser').a
@@ -34,5 +35,9 @@ for link_band,link_album,type,song,genre,*_ in songs:
     name_band = link_band.text
     name_album = link_album.text
     slug = slugify(name_band + " " + name_album)
+    if not slug in albums:
+        new_albums += 1
+        print("New albums: "+str(new_albums))
     albums[slug] = {"url": href_album}
 
+albums.save()
