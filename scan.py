@@ -4,7 +4,7 @@ from pathlib import Path
 import sys
 from jsondb import Object
 from bs4 import BeautifulSoup
-import requests
+import json
 
 p = argparse.ArgumentParser()
 p.add_argument("search_name")
@@ -16,7 +16,23 @@ if not meta_f.exists():
     err("File not found: " + str(meta_f))
 
 meta = Object(meta_f)
-response = requests.get(meta['search_url'])
-print(response.text)
+url = meta['search_url'].replace('advanced','ajax-advanced')
 
+response = json.loads(GET(url))
+songs = response['aaData']
+
+from bs4 import BeautifulSoup as bs
+from slugify import slugify
+
+albums = {}
+
+for link_band,link_album,type,song,genre,*_ in songs:
+    link_band = bs(link_band,'html.parser').a
+    link_album = bs(link_album,'html.parser').a
+    href_band = link_band.get('href')
+    href_album = link_album.get('href')
+    name_band = link_band.text
+    name_album = link_album.text
+    slug = slugify(name_band + " " + name_album)
+    albums[slug] = {"url": href_album}
 
