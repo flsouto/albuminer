@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup as bs
 from slugify import slugify
 from jsondb import Object
 import time
+from argparse import ArgumentParser
 
 cli = SearchCLI.from_sys_args()
 meta = cli.meta()
@@ -13,7 +14,12 @@ albums = cli.albums()
 url = meta['search_url'].replace('advanced','ajax-advanced')
 new_albums = 0
 
-for i in range(0,10000,200):
+ap = ArgumentParser()
+ap.add_argument('--start','-s',nargs='?',default=0,type=int)
+ap.add_argument('--end','-e',nargs='?',default=10000,type=int)
+params,_ = ap.parse_known_args()
+
+for i in range(params.start, params.end, 200):
 
     url_paged = url.replace('songs?','songs?iDisplayStart=' + str(i) + '&')
     print("Scanning " + url_paged)
@@ -34,6 +40,7 @@ for i in range(0,10000,200):
             new_albums += 1
             albums[slug] = {"url": href_album}
             albums.save()
+            print("Current index: "+str(i))
             print("New album slug: "+slug)
             print("Total new albums: "+str(new_albums))
     time.sleep(5)

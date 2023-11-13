@@ -39,7 +39,7 @@ class SearchCLI:
 
         p = argparse.ArgumentParser()
         p.add_argument("search_name")
-        params = p.parse_args()
+        params,_ = p.parse_known_args()
         dir = Path(__file__).with_name("data") / params.search_name
         meta_f = dir / "metadata.json"
 
