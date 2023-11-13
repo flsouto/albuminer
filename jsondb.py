@@ -1,4 +1,5 @@
 import os, json
+from pathlib import Path
 
 objects = {}
 def Object(file) :
@@ -24,6 +25,9 @@ class _Object:
 
     def __contains__(self, key):
         return key in self.data
+
+    def path(self) :
+        return Path(self.file)
 
     def save(self, force=False):
         if not self.dirty and not force:

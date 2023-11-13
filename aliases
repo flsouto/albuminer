@@ -1,3 +1,4 @@
 alias create="python3 create.py "
 alias scan="python3 scan.py "
 alias push="git add -u; git commit -m 'updates'; git push origin master; git status -s;"
+alias next="python3 next.py"
