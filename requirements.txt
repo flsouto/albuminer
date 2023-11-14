@@ -5,3 +5,5 @@ html5lib
 requests
 diskcache
 httpx
+git+https://github.com/flsouto/jsondb@main
+
