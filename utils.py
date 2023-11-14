@@ -22,8 +22,9 @@ def GET(url):
     return content
 
 class SearchCLI:
-    def __init__(self,dir):
+    def __init__(self,dir,params):
         self.dir = dir
+        self.params = params
 
     def meta(self):
         return Object(Path(self.dir) / "metadata.json")
@@ -31,7 +32,7 @@ class SearchCLI:
     def albums(self):
         return Object(Path(self.dir) / "albums.json")
 
-    def from_sys_args():
+    def from_sys_args(customize_parser=None):
 
         import argparse
         from pathlib import Path
@@ -39,6 +40,8 @@ class SearchCLI:
 
         p = argparse.ArgumentParser()
         p.add_argument("search_name")
+        if customize_parser:
+            customize_parser(p)
         params,_ = p.parse_known_args()
         dir = Path(__file__).with_name("data") / params.search_name
         meta_f = dir / "metadata.json"
@@ -46,7 +49,7 @@ class SearchCLI:
         if not meta_f.exists():
             err("File not found: " + str(meta_f))
 
-        return SearchCLI(dir)
+        return SearchCLI(dir, params)
 
 
 
