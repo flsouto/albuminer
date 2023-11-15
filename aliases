@@ -1,7 +1,14 @@
-alias create="python3 create.py "
-alias scan="python3 scan.py "
 alias push="git add -u; git commit -m 'updates'; git push origin master; git status -s;"
-alias next="python3 next.py"
-alias curr="python3 current.py"
-alias prev="python3 prev.py"
-alias rate="python3 rate.py"
+ns() { ns=$1; . aliases; PS1="$1> "; }
+pylias() { alias $1="python3 ${2:-$1.py}"; }
+pylias_ns() { alias $1="python3 ${2:-$1.py} $ns"; }
+
+pylias create
+
+pylias_ns scan
+pylias_ns next
+pylias_ns prev
+pylias_ns rate
+pylias_ns stats
+pylias_ns curr current.py
+
