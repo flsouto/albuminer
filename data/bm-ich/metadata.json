@@ -1,1 +1,13 @@
-{"search_name": "bm-ich", "search_url": "https://www.metal-archives.com/search/advanced/searching/songs?songTitle=&bandName=&releaseTitle=&lyrics=Ich&genre=black+metal&releaseType%5B%5D=1&releaseType%5B%5D=3&releaseType%5B%5D=5#songs", "current": {"url": "https://www.metal-archives.com/albums/Halgadom/Sein_und_Werden/41490", "key": "halgadom-sein-und-werden"}, "prev": {"url": "https://www.metal-archives.com/albums/Ashtavakra/Resistance/636933", "key": "ashtavakra-resistance"}, "rate": 5}
+{
+ "search_name": "bm-ich",
+ "search_url": "https://www.metal-archives.com/search/advanced/searching/songs?songTitle=&bandName=&releaseTitle=&lyrics=Ich&genre=black+metal&releaseType%5B%5D=1&releaseType%5B%5D=3&releaseType%5B%5D=5#songs",
+ "current": {
+  "url": "https://www.metal-archives.com/albums/Klabautamann/Der_Ort/70051",
+  "key": "klabautamann-der-ort"
+ },
+ "prev": {
+  "url": "https://www.metal-archives.com/albums/Vargsheim/Weltfremd/267488",
+  "key": "vargsheim-weltfremd"
+ },
+ "rate": 5
+}
