@@ -389,7 +389,8 @@
   "url": "https://www.metal-archives.com/albums/Zwenz/Wir_sind_frei/72592"
  },
  "astoroth-earthly-welking": {
-  "url": "https://www.metal-archives.com/albums/Astoroth/Earthly_Welking/302964"
+  "url": "https://www.metal-archives.com/albums/Astoroth/Earthly_Welking/302964",
+  "rate": 6
  },
  "christ-agony-darkside": {
   "url": "https://www.metal-archives.com/albums/Christ_Agony/Darkside/10011"
@@ -940,7 +941,8 @@
   "url": "https://www.metal-archives.com/albums/Frigoris/Wind/376064"
  },
  "schattenfang-abgrunde": {
-  "url": "https://www.metal-archives.com/albums/Schattenfang/Abgr%C3%BCnde/345715"
+  "url": "https://www.metal-archives.com/albums/Schattenfang/Abgr%C3%BCnde/345715",
+  "rate": 5
  },
  "aaskereia-zwischen-den-welten": {
   "url": "https://www.metal-archives.com/albums/Aaskereia/Zwischen_den_Welten.../65877"
@@ -1322,7 +1324,8 @@
   "url": "https://www.metal-archives.com/albums/Lux_Ferre/Unholy_Ascendance_of_Satan/16243"
  },
  "nebelkrahe-weltfest-des-todes": {
-  "url": "https://www.metal-archives.com/albums/Nebelkr%C3%A4he/Weltfest_des_Todes/154346"
+  "url": "https://www.metal-archives.com/albums/Nebelkr%C3%A4he/Weltfest_des_Todes/154346",
+  "rate": -1
  },
  "pest-schwarze-visionen": {
   "url": "https://www.metal-archives.com/albums/Pest/Schwarze_Visionen/24961"
@@ -3886,7 +3889,8 @@
   "url": "https://www.metal-archives.com/albums/Totengefl%C3%BCster/The_Faceless_Divine/790554"
  },
  "egonoir-fortuna-teil-i-velut-luna-statu-variabilis": {
-  "url": "https://www.metal-archives.com/albums/EgoNoir/Fortuna_Teil_I_%28Velut_Luna_Statu_Variabilis%29/315711"
+  "url": "https://www.metal-archives.com/albums/EgoNoir/Fortuna_Teil_I_%28Velut_Luna_Statu_Variabilis%29/315711",
+  "rate": -1
  },
  "blackend-horizon-peripherie": {
   "url": "https://www.metal-archives.com/albums/Blackend_Horizon/Peripherie/582930"
@@ -4013,7 +4017,8 @@
   "url": "https://www.metal-archives.com/albums/Schattendasein/Trauerwald/38983"
  },
  "slaktare-misanthropische-isolation": {
-  "url": "https://www.metal-archives.com/albums/Slaktare/Misanthropische_Isolation/104911"
+  "url": "https://www.metal-archives.com/albums/Slaktare/Misanthropische_Isolation/104911",
+  "rate": 1
  },
  "syrgdr-skogr-walthu": {
   "url": "https://www.metal-archives.com/albums/Syrg%C3%B0r_Sk%C3%B3gr/Wal%C3%BEu/227997"
@@ -5432,7 +5437,8 @@
   "url": "https://www.metal-archives.com/albums/Stillborn/Crave_for_Killing/695797"
  },
  "sun-of-the-sleepless-poems-to-the-wretches-hearts": {
-  "url": "https://www.metal-archives.com/albums/Sun_of_the_Sleepless/Poems_to_the_Wretches_Hearts/28260"
+  "url": "https://www.metal-archives.com/albums/Sun_of_the_Sleepless/Poems_to_the_Wretches_Hearts/28260",
+  "rate": -1
  },
  "trigger-auf-toten-pfaden": {
   "url": "https://www.metal-archives.com/albums/Trigger/Auf_toten_Pfaden/551211"
@@ -5739,7 +5745,8 @@
   "url": "https://www.metal-archives.com/albums/The_Unborn/Na_wieki_w_przestrzeni/81407"
  },
  "totengott-lucifuge-rofocale-celtic-frost-demo": {
-  "url": "https://www.metal-archives.com/albums/Totengott/Lucifuge_Rofocale_%28Celtic_Frost_Demo%29/563477"
+  "url": "https://www.metal-archives.com/albums/Totengott/Lucifuge_Rofocale_%28Celtic_Frost_Demo%29/563477",
+  "rate": -1
  },
  "triumphant-herald-the-unsung": {
   "url": "https://www.metal-archives.com/albums/Triumphant/Herald_the_Unsung/403943"
