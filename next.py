@@ -6,7 +6,7 @@ from jsondb import Object
 cli = SearchCLI.from_sys_args()
 albums = cli.albums()
 
-keys = [k for k in albums.keys() if not 'rating' in albums[k]]
+keys = [k for k in albums.keys() if not 'rate' in albums[k]]
 
 if not keys: err('No more albums available')
 

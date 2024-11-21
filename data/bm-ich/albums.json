@@ -73,7 +73,8 @@
   "url": "https://www.metal-archives.com/albums/Wulfgar/Ewigkeit_des_%C3%9Cbels/159015"
  },
  "exorial-licht-und-finsternis": {
-  "url": "https://www.metal-archives.com/albums/Exorial/Licht_und_Finsternis/33605"
+  "url": "https://www.metal-archives.com/albums/Exorial/Licht_und_Finsternis/33605",
+  "rate": -1
  },
  "wehmut-catharsis": {
   "url": "https://www.metal-archives.com/albums/Wehmut/Catharsis/969418"
@@ -353,7 +354,8 @@
   "url": "https://www.metal-archives.com/albums/Nebelheer/Promo_%2704/76449"
  },
  "todesstoss-abwegnis-121": {
-  "url": "https://www.metal-archives.com/albums/Todessto%C3%9F/Abwegnis_121/271914"
+  "url": "https://www.metal-archives.com/albums/Todessto%C3%9F/Abwegnis_121/271914",
+  "rate": -1
  },
  "tortured-souls-alastor": {
   "url": "https://www.metal-archives.com/albums/Tortured_Souls/Alastor/854999"
@@ -368,7 +370,8 @@
   "url": "https://www.metal-archives.com/albums/Withdraw/Histriogram/1048361"
  },
  "nachtsucht-es-ist-schicksal": {
-  "url": "https://www.metal-archives.com/albums/Nachtsucht/Es_ist_Schicksal/91788"
+  "url": "https://www.metal-archives.com/albums/Nachtsucht/Es_ist_Schicksal/91788",
+  "rate": -1
  },
  "nordisk-velde-krieger-wotans": {
   "url": "https://www.metal-archives.com/albums/Nordisk_Velde/Krieger_Wotans/95562"
@@ -839,7 +842,8 @@
   "url": "https://www.metal-archives.com/albums/Totgeburt/Das_Ritual_beginnt/332543"
  },
  "trollskogen-vom-vergess-nen-land": {
-  "url": "https://www.metal-archives.com/albums/Trollskogen/Vom_vergess%27nen_Land/24258"
+  "url": "https://www.metal-archives.com/albums/Trollskogen/Vom_vergess%27nen_Land/24258",
+  "rate": 2
  },
  "vampyrsgard-phantom-der-nacht": {
   "url": "https://www.metal-archives.com/albums/Vampyrsgard/Phantom_der_Nacht/547337"
@@ -932,7 +936,8 @@
   "url": "https://www.metal-archives.com/albums/Von_Branden/Scherben/176507"
  },
  "anthems-of-gomorrah-a-new-era": {
-  "url": "https://www.metal-archives.com/albums/Anthems_of_Gomorrah/A_New_Era/192813"
+  "url": "https://www.metal-archives.com/albums/Anthems_of_Gomorrah/A_New_Era/192813",
+  "rate": -1
  },
  "asenheim-the-black-diary": {
   "url": "https://www.metal-archives.com/albums/Asenheim/The_Black_Diary/293189"
@@ -1192,7 +1197,8 @@
   "url": "https://www.metal-archives.com/albums/EgoNoir/Der_Pfad_zum_Fluss/152662"
  },
  "epiphanie-fragmente-von-lebenslichtern-und-den-liedern-toter-kinder": {
-  "url": "https://www.metal-archives.com/albums/Epiphanie/Fragmente%3A_Von_Lebenslichtern_und_den_Liedern_toter_Kinder/281739"
+  "url": "https://www.metal-archives.com/albums/Epiphanie/Fragmente%3A_Von_Lebenslichtern_und_den_Liedern_toter_Kinder/281739",
+  "rate": 1
  },
  "schadel-schwarz-mein-meer": {
   "url": "https://www.metal-archives.com/albums/Sch%C3%A4del/Schwarz_mein_Meer/973541"
@@ -1379,7 +1385,8 @@
   "url": "https://www.metal-archives.com/albums/Nordisk_Velde/In_manch%27_dunkler_Nacht/111619"
  },
  "the-martyrium-verachtung": {
-  "url": "https://www.metal-archives.com/albums/The_Martyrium/Verachtung/24968"
+  "url": "https://www.metal-archives.com/albums/The_Martyrium/Verachtung/24968",
+  "rate": -1
  },
  "trollskogen-einsamkeit": {
   "url": "https://www.metal-archives.com/albums/Trollskogen/Einsamkeit/234480"
@@ -1476,7 +1483,8 @@
   "url": "https://www.metal-archives.com/albums/Aaskereia/Mit_Raben_und_W%C3%B6lfen/20411"
  },
  "altum-atramentum-demo-2008": {
-  "url": "https://www.metal-archives.com/albums/Altum_Atramentum/Demo_2008/240730"
+  "url": "https://www.metal-archives.com/albums/Altum_Atramentum/Demo_2008/240730",
+  "rate": 6
  },
  "anwar-ehrfurcht": {
   "url": "https://www.metal-archives.com/albums/Anwar/Ehrfurcht/353787"
@@ -1589,7 +1597,8 @@
   "url": "https://www.metal-archives.com/albums/Majesty_of_Silence/Lichtstille/107248"
  },
  "atrorum-structurae": {
-  "url": "https://www.metal-archives.com/albums/Atrorum/Structurae/533984"
+  "url": "https://www.metal-archives.com/albums/Atrorum/Structurae/533984",
+  "rate": 1
  },
  "karg-apathie": {
   "url": "https://www.metal-archives.com/albums/Karg/Apathie/339381"
@@ -1941,7 +1950,8 @@
   "url": "https://www.metal-archives.com/albums/Cryptic_Wintermoon/Fear/249795"
  },
  "frozen-dawn-those-of-the-cursed-light": {
-  "url": "https://www.metal-archives.com/albums/Frozen_Dawn/Those_of_the_Cursed_Light/403071"
+  "url": "https://www.metal-archives.com/albums/Frozen_Dawn/Those_of_the_Cursed_Light/403071",
+  "rate": -1
  },
  "gorbalrog-untergang": {
   "url": "https://www.metal-archives.com/albums/Gorbalrog/Untergang/27125"
@@ -2128,7 +2138,8 @@
   "url": "https://www.metal-archives.com/albums/Sardonic_Wrath/Skarbums_%28Bitterness%29/564568"
  },
  "samsas-traum-asen-ka-ein-marchen-fur-kinder-und-solche-die-es-werden-wollen": {
-  "url": "https://www.metal-archives.com/albums/Samsas_Traum/Asen%27ka_-_ein_M%C3%A4rchen_f%C3%BCr_Kinder_und_solche%2C_die_es_werden_wollen/355182"
+  "url": "https://www.metal-archives.com/albums/Samsas_Traum/Asen%27ka_-_ein_M%C3%A4rchen_f%C3%BCr_Kinder_und_solche%2C_die_es_werden_wollen/355182",
+  "rate": 1
  },
  "asmodi-sapere-aude": {
   "url": "https://www.metal-archives.com/albums/Asmodi/Sapere_Aude/229429"
@@ -2204,7 +2215,8 @@
   "url": "https://www.metal-archives.com/albums/Karkadan/Eternal_Black_Reflections/13696"
  },
  "krater-stolz-schurt-uns-re-kraft": {
-  "url": "https://www.metal-archives.com/albums/Krater/Stolz_sch%C3%BCrt_uns%27re_Kraft/57971"
+  "url": "https://www.metal-archives.com/albums/Krater/Stolz_sch%C3%BCrt_uns%27re_Kraft/57971",
+  "rate": 1
  },
  "lunar-aurora-elixir-of-sorrow": {
   "url": "https://www.metal-archives.com/albums/Lunar_Aurora/Elixir_of_Sorrow/653942"
@@ -3446,7 +3458,8 @@
   "url": "https://www.metal-archives.com/albums/Tribes_of_Ca%C3%AFn/Promo_1/66494"
  },
  "tribes-of-cain-the-first-born": {
-  "url": "https://www.metal-archives.com/albums/Tribes_of_Ca%C3%AFn/The_First_Born/141487"
+  "url": "https://www.metal-archives.com/albums/Tribes_of_Ca%C3%AFn/The_First_Born/141487",
+  "rate": -1
  },
  "antimensch-sei-gott": {
   "url": "https://www.metal-archives.com/albums/Antimensch/Sei_Gott/675703"
@@ -3589,7 +3602,8 @@
   "url": "https://www.metal-archives.com/albums/Lentokentt%C3%A4/The_Astral_Void/1143521"
  },
  "massenvernichtung-im-dienste-des-morddoms": {
-  "url": "https://www.metal-archives.com/albums/Massenvernichtung/Im_Dienste_des_Morddoms/164591"
+  "url": "https://www.metal-archives.com/albums/Massenvernichtung/Im_Dienste_des_Morddoms/164591",
+  "rate": -1
  },
  "mastiphal-for-a-glory-of-all-evil-spirits-rise-for-victory": {
   "url": "https://www.metal-archives.com/albums/Mastiphal/For_a_Glory_of_All_Evil_Spirits%2C_Rise_for_Victory/23883"
@@ -3844,7 +3858,8 @@
   "url": "https://www.metal-archives.com/albums/Popi%C3%B3%C5%82/Zabobony/764063"
  },
  "schattenvald-vi": {
-  "url": "https://www.metal-archives.com/albums/Schattenvald/VI/1142305"
+  "url": "https://www.metal-archives.com/albums/Schattenvald/VI/1142305",
+  "rate": -1
  },
  "urdbrunn-winterweiss": {
   "url": "https://www.metal-archives.com/albums/Urdbrunn/Winterwei%C3%9F/1081570"
@@ -3993,7 +4008,8 @@
   "url": "https://www.metal-archives.com/albums/H%C4%81g/Ein_n%C3%A4chtlich%27_Ritt/565506"
  },
  "infaust-des-schmerzes-macht": {
-  "url": "https://www.metal-archives.com/albums/Infaust/Des_Schmerzes_Macht/108681"
+  "url": "https://www.metal-archives.com/albums/Infaust/Des_Schmerzes_Macht/108681",
+  "rate": -1
  },
  "irmingot-posercrushing-black-metal": {
   "url": "https://www.metal-archives.com/albums/Irmingot/Posercrushing_Black_Metal/107639"
@@ -4045,7 +4061,8 @@
   "url": "https://www.metal-archives.com/albums/Vorghoth/Nocturnal_Winter_Division/595891"
  },
  "withdraw-putiservant": {
-  "url": "https://www.metal-archives.com/albums/Withdraw/Putiservant/986446"
+  "url": "https://www.metal-archives.com/albums/Withdraw/Putiservant/986446",
+  "rate": 1
  },
  "zmij-obrzedow-dawnych-tchnienie": {
   "url": "https://www.metal-archives.com/albums/%C5%BBmij/Obrz%C4%99d%C3%B3w_dawnych_tchnienie/703670"
@@ -4263,7 +4280,8 @@
   "url": "https://www.metal-archives.com/albums/Linde/Pogranicze/1017285"
  },
  "moonblood-rehearsal-12": {
-  "url": "https://www.metal-archives.com/albums/Moonblood/Rehearsal_12/10932"
+  "url": "https://www.metal-archives.com/albums/Moonblood/Rehearsal_12/10932",
+  "rate": -1
  },
  "nagual-odsnienie-nibbida": {
   "url": "https://www.metal-archives.com/albums/Nagual/Od%C5%9Bnienie_%28Nibbida%29/804584"
@@ -4517,7 +4535,8 @@
   "url": "https://www.metal-archives.com/albums/Devil_in_Love/The_Only_Thing_I_Love_Is_Hate/94219"
  },
  "damonenblut-lieder-des-hasses": {
-  "url": "https://www.metal-archives.com/albums/D%C3%A4monenblut/Lieder_des_Hasses/653854"
+  "url": "https://www.metal-archives.com/albums/D%C3%A4monenblut/Lieder_des_Hasses/653854",
+  "rate": -1
  },
  "forest-whispers-duchy-lasu": {
   "url": "https://www.metal-archives.com/albums/Forest_Whispers/Duchy_lasu/477612"
@@ -4658,7 +4677,8 @@
   "url": "https://www.metal-archives.com/albums/Odium_Immortalis/Odyssee_ins_Verderben/27224"
  },
  "skidbladnir-kapitel-i": {
-  "url": "https://www.metal-archives.com/albums/Skidbladnir/Kapitel_I/241061"
+  "url": "https://www.metal-archives.com/albums/Skidbladnir/Kapitel_I/241061",
+  "rate": -1
  },
  "urdbrunn-in-die-fluten-des-nichts": {
   "url": "https://www.metal-archives.com/albums/Urdbrunn/In_die_Fluten_des_Nichts/974317"
@@ -5082,7 +5102,8 @@
   "url": "https://www.metal-archives.com/albums/Decline/Cold_Declaration_of_Visceral_Disgust/323173"
  },
  "despised-cruelty-lez-padol": {
-  "url": "https://www.metal-archives.com/albums/Despised_Cruelty/%C5%81ez_pad%C3%B3%C5%82/759332"
+  "url": "https://www.metal-archives.com/albums/Despised_Cruelty/%C5%81ez_pad%C3%B3%C5%82/759332",
+  "rate": -1
  },
  "emskirchen-goat-kvlt-drachenfeind": {
   "url": "https://www.metal-archives.com/albums/Emskirchen_Goat_Kvlt/Drachenfeind/609752"
@@ -5267,7 +5288,8 @@
   "rate": 3
  },
  "morphinist-the-euphoria-session": {
-  "url": "https://www.metal-archives.com/albums/Morphinist/The_Euphoria_Session/450185"
+  "url": "https://www.metal-archives.com/albums/Morphinist/The_Euphoria_Session/450185",
+  "rate": -1
  },
  "nocte-obducta-irrlicht-es-schlagt-dem-mond-ein-kaltes-herz": {
   "url": "https://www.metal-archives.com/albums/Nocte_Obducta/Irrlicht_%28Es_schl%C3%A4gt_dem_Mond_ein_kaltes_Herz%29/876284"
@@ -5492,7 +5514,8 @@
   "url": "https://www.metal-archives.com/albums/Narrenwind/Mojej_bolesnej_%C5%9Bni%C4%99_dobr%C4%85_%C5%9Bmier%C4%87/749579"
  },
  "abigor-nachthymnen-from-the-twilight-kingdom": {
-  "url": "https://www.metal-archives.com/albums/Abigor/Nachthymnen_%28From_the_Twilight_Kingdom%29/3235"
+  "url": "https://www.metal-archives.com/albums/Abigor/Nachthymnen_%28From_the_Twilight_Kingdom%29/3235",
+  "rate": -1
  },
  "abusiveness-bramy-nawii": {
   "url": "https://www.metal-archives.com/albums/Abusiveness/Bramy_Nawii/449474"
@@ -5733,7 +5756,8 @@
   "url": "https://www.metal-archives.com/albums/Klabautamann/Gott_schenkt_Gift/24929"
  },
  "okrutnik-trzypak": {
-  "url": "https://www.metal-archives.com/albums/Okr%C3%BCtnik/TrzyPak/890176"
+  "url": "https://www.metal-archives.com/albums/Okr%C3%BCtnik/TrzyPak/890176",
+  "rate": -1
  },
  "posledna-minuta-prilis-vela-ludi": {
   "url": "https://www.metal-archives.com/albums/Posledn%C3%A1_Min%C3%BAta/Pr%C3%ADli%C5%A1_ve%C4%BEa_%C4%BEud%C3%AD/779903"
@@ -5825,7 +5849,8 @@
   "url": "https://www.metal-archives.com/albums/Desolation/Under_Pitch-Black_Skies/150451"
  },
  "ekpyrosis-weisse-nacht": {
-  "url": "https://www.metal-archives.com/albums/Ekpyrosis/Weisse_Nacht/393109"
+  "url": "https://www.metal-archives.com/albums/Ekpyrosis/Weisse_Nacht/393109",
+  "rate": 6
  },
  "empyreal-psalms-of-forlorn-hope": {
   "url": "https://www.metal-archives.com/albums/Empyreal/Psalms_of_Forlorn_Hope/623580"
@@ -6045,7 +6070,8 @@
   "url": "https://www.metal-archives.com/albums/Celtic_Frost/Monotheist/104518"
  },
  "kat-oddech-wymarlych-swiatow": {
-  "url": "https://www.metal-archives.com/albums/Kat/Oddech_wymar%C5%82ych_%C5%9Bwiat%C3%B3w/12988"
+  "url": "https://www.metal-archives.com/albums/Kat/Oddech_wymar%C5%82ych_%C5%9Bwiat%C3%B3w/12988",
+  "rate": -1
  },
  "agrypnie-f51-4": {
   "url": "https://www.metal-archives.com/albums/Agrypnie/F51.4/477067"
@@ -6148,7 +6174,8 @@
   "url": "https://www.metal-archives.com/albums/Graveland/Prawo_stali/413708"
  },
  "hromovlad-ohna-hlad-vody-chlad": {
-  "url": "https://www.metal-archives.com/albums/Hromovlad/Oh%C5%88a_hlad%2C_vody_chlad/166385"
+  "url": "https://www.metal-archives.com/albums/Hromovlad/Oh%C5%88a_hlad%2C_vody_chlad/166385",
+  "rate": -1
  },
  "azathoth-too-more-faith": {
   "url": "https://www.metal-archives.com/albums/Azathoth/Too_More_Faith/25635"
