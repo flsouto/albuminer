@@ -17,16 +17,17 @@ new_albums = 0
 ap = ArgumentParser()
 ap.add_argument('--start','-s',nargs='?',default=0,type=int)
 ap.add_argument('--end','-e',nargs='?',default=10000,type=int)
+ap.add_argument('--json','-j',nargs='?',default='',type=str)
+
 params,_ = ap.parse_known_args()
 
-for i in range(params.start, params.end, 200):
+def process_response(response):
 
-    url_paged = url.replace('songs?','songs?iDisplayStart=' + str(i) + '&')
-    print("Scanning " + url_paged)
-    response = json.loads(GET(url_paged))
+    global albums, new_albums
+
     songs = response['aaData']
 
-    if not songs: break
+    if not songs: return
 
     for link_band,link_album,type,song,genre,*_ in songs:
         link_band = bs(link_band,'html.parser').a
@@ -40,9 +41,23 @@ for i in range(params.start, params.end, 200):
             new_albums += 1
             albums[slug] = {"url": href_album}
             albums.save()
-            print("Current index: "+str(i))
             print("New album slug: "+slug)
             print("Total new albums: "+str(new_albums))
-    time.sleep(5)
+
+if params.json:
+    with open(params.json, "r", encoding="utf-8") as file:
+        print(file)
+        data = json.load(file)
+        process_response(data)
+else:
+
+    for i in range(params.start, params.end, 200):
+
+        print("Current index: "+str(i))
+        url_paged = url.replace('songs?','songs?iDisplayStart=' + str(i) + '&')
+        response = json.loads(GET(url_paged))
+        print("Scanning " + url_paged)
+        process_response(response)
+        time.sleep(5)
 
 print("Total new albums: "+str(new_albums))

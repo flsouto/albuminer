@@ -2,13 +2,12 @@
  "search_name": "bm-ich",
  "search_url": "https://www.metal-archives.com/search/advanced/searching/songs?songTitle=&bandName=&releaseTitle=&lyrics=Ich&genre=black+metal&releaseType%5B%5D=1&releaseType%5B%5D=3&releaseType%5B%5D=5#songs",
  "current": {
-  "url": "https://www.metal-archives.com/albums/Downfall_of_Gaia/Suffocating_in_the_Swarm_of_Cranes/355965",
-  "rate": 6,
-  "key": "downfall-of-gaia-suffocating-in-the-swarm-of-cranes"
+  "url": "https://www.metal-archives.com/albums/Grabnebelf%C3%BCrsten/Seelenpoker/23621",
+  "key": "grabnebelfursten-seelenpoker"
  },
  "prev": {
-  "url": "https://www.metal-archives.com/albums/The_Martyrium/Verachtung/24968",
-  "key": "the-martyrium-verachtung"
+  "url": "https://www.metal-archives.com/albums/Wojnar/Z_najg%C5%82%C4%99bszych_bor%C3%B3w_pie%C5%9Bni_wam_nios%C4%99/110808",
+  "key": "wojnar-z-najglebszych-borow-piesni-wam-niose"
  },
  "rate": 5
 }
